@@ -12,7 +12,9 @@ is to build a small farmstead with beekeeping, various fermentation
 capabilities (kimchi, cheese, and Czech pilseners), and an <a
 href="https://www.brainpickings.org/2015/03/24/umberto-eco-antilibrary/">antilibrary</a>.
 
-I teach British and American literature at <a href="https://waterfordschool.org">The Waterford School</a> in Sandy, Utah.
+I teach British and American literature at <a
+href="https://waterfordschool.org">The Waterford School</a> in Sandy,
+Utah.
 
 My educational background is in linguistics (<a
 href="https://linguistics.stanford.edu/people/phd-alumni">Ph.D.</a>
