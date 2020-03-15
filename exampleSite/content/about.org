@@ -2,8 +2,6 @@
 title: "About"
 description: ""
 date: "2018-03-30"
-meta: "false"
-menu: "main"
 ---
 
 I am an educator and writer interested in digital humanities,
