@@ -16,7 +16,7 @@ disqusShortname = "ezhil-demo"
 summaryLength = 20
 
 [params]
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	subtitle = "The public workspace of Matthew Edward Adams"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
