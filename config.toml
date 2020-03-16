@@ -1,6 +1,7 @@
 baseURL = "https://www.phantisocracy.xyz"
 languageCode = "en-us"
 title = "Phantisocracy TEST"
+themesDir = "."
 paginate = 5
 
 copyright = "© Copyright notice"
