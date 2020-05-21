@@ -8,3 +8,4 @@ disqus: false
 Still seeing snow on hikes. First time in the Oquirrh Mountains, overlooking Tooele Valley and the Great Salt Lake far below (caught the shore with a monocular scope). Wildflowers, abandoned mining cabins, dust storms, trains.
 
 {{< instagram CAUCpnoH_Y3 hidecaption >}}
+
