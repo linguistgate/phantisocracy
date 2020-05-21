@@ -12,7 +12,7 @@ I teach British and American literature at [[https://waterfordschool.org][Waterf
 
 My educational background is in linguistics ([[https://linguistics.stanford.edu/people/phd-alumni][Ph.D.]] and M.A., Stanford University) and German ([[https://german.georgetown.edu/people/alumni#MA%20Recip][M.A.]], Georgetown University). I graduated /summa cum laude/ from the University of California, Irvine, and studied German language and literature at Göttingen.
 
-This website is maintained with the open source [[https://gohugo.io/][Hugo engine]] and is hosted (currently) on [[https://github.com/linguistgate/public_workspace][Github]] and served through [[https://netlify.com][Netlify]]. The typeface is mostly [[https://edwardtufte.github.io/et-book/][ET Book]] because I find it aesthetically pleasing, and I like some of Edward Tufte's ideas.
+This website is maintained with the open source [[https://gohugo.io/][Hugo engine]] and is hosted (currently) on [[https://github.com/linguistgate/public_workspace][Github]] and served through [[https://netlify.com][Netlify]].
 
 I believe in maintaining control over my content even if the personal webpage has become sadly antiquated, and I hold fast to the idea that the Web should be a space of contributory individual expression, not compartmentalization, reactionary amplification, lock-down, and lock-in. To that extent, my Web presence through Phantisocracy is political.
 
