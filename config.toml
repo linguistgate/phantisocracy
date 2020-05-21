@@ -9,8 +9,8 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ezhil-demo"
+#googleAnalytics = "UA-123-45"
+disqusShortname = "https-www-phtantisocracy-xyz"
 
 summaryLength = 20
 
