@@ -5,7 +5,7 @@ type: page
 disqus: false
 ---
 
-I am an educator and writer interested in digital humanities, linguistics, and farming. I like maps and long hikes. One of my dreams is to build a small farmstead with beekeeping, various fermentation capabilities (kimchi, cheese, and Czech pilseners), and an [[https://www.brainpickings.org/2015/03/24/umberto-eco-antilibrary/][antilibrary]].
+I am an educator and writer interested in digital humanities, linguistics, and farming. I like maps and long hikes. One of my dreams is to build a small farmstead with beekeeping and various fermentation capabilities (kimchi, cheese, and Czech pilseners). In an attic or an annex would lie the heart of my [[https://www.brainpickings.org/2015/03/24/umberto-eco-antilibrary/][antilibrary]].
 
 I teach British and American literature at [[https://waterfordschool.org][Waterford School]] in Sandy, Utah.
 
