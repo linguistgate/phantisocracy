@@ -41,7 +41,7 @@ weight = 4
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 5
+weight = 3
 
 [[params.social]]
 name = "Github"
