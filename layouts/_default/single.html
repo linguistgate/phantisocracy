@@ -7,9 +7,15 @@
 
 		<div class="post-header">
 			<h1 class="title">{{ .Title }}</h1>
-			<div class="meta">Posted at &mdash; {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+			<div class="meta">
+        {{ if .Params.showthedate | default "true" }} Posted on
+           {{ dateFormat "January 1, 2006" .Date }}
+        {{ end }}
+        {{ if .Draft }} <span class="draft-label">DRAFT</span>
+        {{ end }}
+      </div>
 		</div>
-
+    
 		<div class="markdown">
 			{{ .Content }}
 		</div>
