@@ -54,6 +54,11 @@ icon = "instagram"
 url = "https://instagram.com/matthew.e.adams"
 
 [[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/linguistgate"
+
+[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
