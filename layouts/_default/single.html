@@ -9,7 +9,7 @@
 			<h1 class="title">{{ .Title }}</h1>
 			<div class="meta">
         {{ if .Params.showthedate | default "true" }} Posted on
-           {{ dateFormat "January 1, 2006" .Date }}
+           {{ .PublishDate }}
         {{ end }}
         {{ if .Draft }} <span class="draft-label">DRAFT</span>
         {{ end }}
