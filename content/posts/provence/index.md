@@ -1,7 +1,7 @@
 ---
 title:  "On Hiking to Bibémus"
 date:  2016-03-01T09:40:36+01:00
-description: "The area east of Aix-en-Provence with some personal reflections"
+description: "Description area east of Aix-en-Provence with some personal reflections"
 tags: [france, hiking]
 disqus: false
 images: [ "/posts/provence/mt-st-victoire-from-bibemus.jpg" ] 
