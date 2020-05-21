@@ -1,9 +1,10 @@
 ---
 title:  "Hike in the Oquirrhs"
 date:  2020-05-17T17:40:36+01:00
-description: "Hike up Bates Canyon"
 tags: [instagram, hiking, utah]
 disqus: false
 ---
 
-{{< instagram CAUCpnoH_Y3 >}}
+Still seeing snow on hikes. First time in the Oquirrh Mountains, overlooking Tooele Valley and the Great Salt Lake far below (caught the shore with a monocular scope). Wildflowers, abandoned mining cabins, dust storms, trains.
+
+{{< instagram CAUCpnoH_Y3 hidecaption >}}
