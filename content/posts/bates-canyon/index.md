@@ -1,5 +1,5 @@
 ---
-title:  "Hike in the Oquirrhs"
+title:  "First Hike in the Oquirrhs"
 date:  2020-05-17T17:40:36+01:00
 tags: [instagram, hiking, utah]
 disqus: false
