@@ -10,19 +10,19 @@ Had a Deutscher Akademischer Austausch Dienst orientation in the Köln/Deutz nei
 
 The face below the town hall clock looks across at a guild building and is part of an elaborate Kölscher friendly antipathy between government and commerce. The guild building has a statue mooning the Stadthalle.
 
-{{< figure figcaption="Antipathy in stone: Kölsch ist besser als ein Dunkles. (Photograph by author)" >}}
+{{< figure figcaption="Antipathy in stone: Kölsch ist besser als ein Dunkles. (Photograph by the author)" >}}
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-town-hall.jpg" alt="Cologne Town Hall" >}}
 {{< /figure >}}
 
 The Hohenzollern Bridge is decorated with locks that lovers attach to the railing. Someone told me they throw the key in the Rhine, but I’m not sure if this true (at least in all cases).
 
-{{< figure figcaption="View of the Hohenzollern Bridge from the Cologne Cathedral" >}}
+{{< figure figcaption="View of the Hohenzollern Bridge from Deutz (Photograph by the author)" >}}
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-hohenzollern-bridge.jpg" alt="The Hohenzollern Bridge" >}}
 {{< /figure >}}
 
 And the majestic Kölner Dom:
 
-{{< figure figcaption="Dark edifice of the towers, positioned outside the narthex. (Photograph by author)" >}}
+{{< figure figcaption="Dark edifice of the towers, positioned outside the narthex. (Photograph by the author)" >}}
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-cathedral.jpg" alt="Cologne Town Hall" >}}
 {{< /figure >}}
 
