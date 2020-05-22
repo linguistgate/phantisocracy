@@ -1,7 +1,6 @@
 ---
 title: "About"
 showthedate: false
-type: page
 disqus: false
 ---
 
