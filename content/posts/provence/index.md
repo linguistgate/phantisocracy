@@ -17,7 +17,9 @@ The hike to the plateau is not difficult and mostly unfolds on paved roads (cars
 
 The eastern ridge of the plateau provides an unobstructed view of Sainte-Victoire. It's impossible not to want to sit down with bread and some sort of liquid and enjoy life away from the hurry below. _Bibemus_, "we shall drink," is more than just the cell of a Latin verbal paradigm. I've seen bicyclists lug themselves up the plateau only to avail themselves of a bottle of Bandol rosé while whispering in French. Why does the tenseness of French vowels come through even while speaking in whispers?
 
-{{< img src="./mt-st-victoire-from-bibemus.jpg" title="View of Montagne Sainte-Victoire from Bibémus Plateau. Le barrage de Zola is visible at center-right. (Photograph by the author)" >}}
+{{< figure figcaption="View of Montagne Sainte-Victoire from Bibémus Plateau. Le barrage de Zola is visible at center-right. (Photograph by the author)" >}}
+  {{< img sizes="(min-width: 35em) 800px, 1000vw" src="mt-st-victoire-from-bibemus.jpg" alt="View of St.-Victoire from Bibemus Plateau" >}}
+{{< /figure >}}
 
 East of the plateau, the soil of the trail leading to Lac Zola and Lac du Bimont has a chalky, crumbling texture. The sound it makes against the flam accent of my footfall is consistently a _slide-chaw_ until solid rock takes over on the canyon cliffs between the plateau and Lac du Bimont. The dust of the soil is fine and varies in yellowness between chiffon and amber. On the plains even farther east of Bibémus, the exposed trails have such high albedo that sunglasses on brilliantly sunny days are advisable.
 
