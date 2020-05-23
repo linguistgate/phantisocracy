@@ -8,8 +8,7 @@
 		<div class="post-header">
 			<h1 class="title">{{ .Title }}</h1>
 			<div class="meta">
-        {{ if .Params.showthedate | default "true" }} Posted on
-           {{ .PublishDate }}
+        {{ if .Params.showthedate | default "true" }} Posted on {{ .PublishDate }}
         {{ end }}
         {{ if .Draft }} <span class="draft-label">DRAFT</span>
         {{ end }}
