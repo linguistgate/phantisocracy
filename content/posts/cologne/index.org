@@ -1,7 +1,6 @@
 ---
 title: Weekend Trip to Cologne
 date: 2013-10-26T22:40:36
-<<<<<<< HEAD
 disqus: false
 description: "A forgotten Tumblr of a day trip to Cologne"
 tags: ["germany"]
@@ -11,39 +10,19 @@ Had a Deutscher Akademischer Austausch Dienst orientation in the Köln/Deutz nei
 
 The face below the town hall clock looks across at a guild building and is part of an elaborate Kölscher friendly antipathy between government and commerce. The guild building has a statue mooning the Stadthalle.
 
-{{< figure figcaption="Antipathy in stone: Kölsch ist besser als ein Dunkles. (Photograph by author)" >}}
-=======
-description: "A long-forgotten Tumblr of a day trip to Cologne while a DAAD recipient"
-disqus: false
-tags: ["germany"]
----
-
-Had a Deutscher Akademischer Austausch Dienst orientation in the Köln/Deutz neighborhood. Some photographs from my Stadtrundgang on both days...
-
-The face below the town hall clock looks across at a guild building and is part of an elaborate Kölscher friendly antipathy between government and commerce. The guild building has a statue mooning the Stadthalle.
-
 {{< figure figcaption="Antipathy in stone: Kölsch ist besser als ein Dunkles. (Photograph by the author)" >}}
->>>>>>> f10a3f74d6ed04856d5e6bd70cdc7d9ff4faeeed
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-town-hall.jpg" alt="Cologne Town Hall" >}}
 {{< /figure >}}
 
 The Hohenzollern Bridge is decorated with locks that lovers attach to the railing. Someone told me they throw the key in the Rhine, but I’m not sure if this true (at least in all cases).
 
-<<<<<<< HEAD
-{{< figure figcaption="View of the Hohenzollern Bridge from Deutz" >}}
-=======
 {{< figure figcaption="View of the Hohenzollern Bridge from Deutz (Photograph by the author)" >}}
->>>>>>> f10a3f74d6ed04856d5e6bd70cdc7d9ff4faeeed
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-hohenzollern-bridge.jpg" alt="The Hohenzollern Bridge" >}}
 {{< /figure >}}
 
 And the majestic Kölner Dom:
 
-<<<<<<< HEAD
-{{< figure figcaption="Dark edifice of the towers, positioned outside the narthex. (Photograph by author)" >}}
-=======
 {{< figure figcaption="Dark edifice of the towers, positioned outside the narthex. (Photograph by the author)" >}}
->>>>>>> f10a3f74d6ed04856d5e6bd70cdc7d9ff4faeeed
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-cathedral.jpg" alt="Cologne Town Hall" >}}
 {{< /figure >}}
 
