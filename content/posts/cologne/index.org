@@ -2,6 +2,7 @@
 title: Weekend Trip to Cologne
 date: 2013-10-26T22:40:36
 disqus: false
+description: "A forgotten Tumblr of a day trip to Cologne while on a DAAD Stipendium"
 tags: ["germany"]
 ---
 
@@ -15,7 +16,7 @@ The face below the town hall clock looks across at a guild building and is part 
 
 The Hohenzollern Bridge is decorated with locks that lovers attach to the railing. Someone told me they throw the key in the Rhine, but I’m not sure if this true (at least in all cases).
 
-{{< figure figcaption="View of the Hohenzollern Bridge from the Cologne Cathedral" >}}
+{{< figure figcaption="View of the Hohenzollern Bridge from Deutz" >}}
   {{< img sizes="(min-width: 35em) 500px, 1000vw" src="cologne-hohenzollern-bridge.jpg" alt="The Hohenzollern Bridge" >}}
 {{< /figure >}}
 
