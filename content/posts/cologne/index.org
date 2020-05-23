@@ -2,7 +2,7 @@
 title: Weekend Trip to Cologne
 date: 2013-10-26T22:40:36
 disqus: false
-description: "A forgotten Tumblr of a day trip to Cologne while on a DAAD Stipendium"
+description: "A forgotten Tumblr of a day trip to Cologne"
 tags: ["germany"]
 ---
 
