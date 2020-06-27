@@ -1,0 +1,9 @@
+---
+title: Weekend Trip to Cologne
+date: 2012-06-27T10:59:00
+disqus: false
+description: "A test for my Smartphone"
+tags: ["workflow"]
+---
+
+Testing whether Working Copy can let me post from my phone.
