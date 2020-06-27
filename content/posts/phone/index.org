@@ -1,9 +1,15 @@
 ---
-title: Testing
+title: Working Copy and My iPhone
 date: 2020-06-27T10:59:00
 disqus: false
-description: "A test for my Smartphone"
-tags: ["workflow"]
+description: "Using my smartphone to post to my static Hugo blog"
+tags: ["workflow", "kms", "i0S", "git"]
 ---
 
-Testing whether Working Copy can let me post from my phone.
+Earlier today, this post appeared on my website written completely from my iPhone 7 --- using a purchased version of Working Copy. I'm trying to increase commitment to this space. Part of the commitment is rethinking of Phantisocracy as a digital garden of tended, manicured, and often incomplete (and therefore growing) posts. This is part of a very naive jump into Zettelkastens, Evergreen notes, and a different way of managing my digital life and knowledge management systems.
+
+On his blog, Greg Restall [[https://consequently.org/news/2018/with-help-from-hugo-github-netlify-working-copy-and-shortcuts-i-might-update-this-website-more-frequently/][has a post about using GitHub, Netlify, Hugo, and Working Copy in tandem]] to accomplish a very similar outcome. He suggests using iOS Shortcuts system to create some usable templates. I can foresee using the iPhone for short microposts or "seedlings," in the sense that Maggie Appleton describes in her [[https://www.youtube.com/watch?v=RXXXHN516qc][YouTube interview by Robert Halsfield on Roam Research.]]
+
+Another relevant post is Evan Brown's [[http://evanbrown.io/post/hugo-on-the-go/][writeup on Travis and Working Copy]]. The post contains some tips on using a markdown template to get started and encourages integration of pictures. The Travis part of the post is less relevant for me because I'm using GitHub and Netlify.
+
+The upshot of this post is to document that I've finally achieved something I've been putting into my snippet red Mao book for so long: post frequently, purposefully, and independently of my office setup.
