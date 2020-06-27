@@ -14,6 +14,6 @@ This website is maintained with the open source [[https://gohugo.io/][Hugo engin
 
 I believe in maintaining control over my content even if the personal webpage has become sadly antiquated, and I hold fast to the idea that the Web should be a space of contributory individual expression, not compartmentalization, reactionary amplification, lock-down, and lock-in. To that extent, my Web presence through Phantisocracy is political.
 
-/The title of my public Web presence, Phantisocracy, refers to the utopian ideal set forth by Samuel Taylor Coleridge and Robert Southey in the 1790s. Their pantisocratic ideals were never concretely realized. A phantisocracy is my term of art for any utopian scheme that remains hypothetical./
+/The title of my public Web presence, Phantisocracy, refers cheekily to the utopian ideal set forth by Samuel Taylor Coleridge and Robert Southey in the 1790s. Their pantisocratic ideals were never concretely realized. A phantisocracy is my term of art for any utopian scheme that remains hypothetical./
 
 
