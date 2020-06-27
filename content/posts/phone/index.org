@@ -2,7 +2,7 @@
 title: Working Copy and My iPhone
 date: 2020-06-27T10:59:00
 disqus: false
-description: "Using my phone as a posting tool"
+description: "Using my smartphone to post to my static Hugo blog"
 tags: ["workflow", "kms", "i0S", "git"]
 ---
 
