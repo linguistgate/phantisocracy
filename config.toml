@@ -29,9 +29,14 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Shrubbery"
+name = "Garden"
 url = "/posts"
 weight = 2
+
+[[menu.main]]
+name = "Bookshelf"
+url = "/bookshelf"
+weight = 3
 
 [[menu.main]]
 name = "About"
@@ -41,7 +46,7 @@ weight = 4
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 3
+weight = 5
 
 [[params.social]]
 name = "Github"
