@@ -15,7 +15,7 @@ disqusShortname = "https-www-phtantisocracy-xyz"
 summaryLength = 20
 
 [params]
-	subtitle = "The digital garden of Matthew Edward Adams"
+	subtitle = "The digital workspace of Matthew Edward Adams"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "light" # "dark", "auto", "light"
@@ -29,7 +29,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Garden"
+name = "Posts"
 url = "/posts"
 weight = 2
 
