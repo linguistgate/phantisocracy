@@ -9,5 +9,4 @@ Still seeing snow on hikes. First time in the Oquirrh Mountains, overlooking Too
 
 /Instagram not currently deploying .../
 
-{{< instagram CAUCpnoH_Y3 hidecaption >}}
 
