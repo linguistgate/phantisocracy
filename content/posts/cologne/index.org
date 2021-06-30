@@ -4,6 +4,7 @@ date: 2013-10-26T22:40:36
 disqus: false
 description: "A forgotten Tumblr of a day trip to Cologne"
 tags: ["germany"]
+draft: true
 ---
 
 Had a Deutscher Akademischer Austausch Dienst orientation in the Köln/Deutz neighborhood. Some photographs from my Stadtrundgang on both days ...

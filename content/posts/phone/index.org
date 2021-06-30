@@ -4,6 +4,7 @@ date: 2020-06-27T10:59:00
 disqus: false
 description: "Using my smartphone to post to my static Hugo blog"
 tags: ["workflow", "kms", "i0S", "git"]
+draft: true
 ---
 
 Earlier today, this post appeared on my website written completely from my iPhone 7 --- using a purchased version of Working Copy. I'm trying to increase commitment to this space. Part of the commitment is rethinking of Phantisocracy as a digital garden of tended, manicured, and often incomplete (and therefore growing) posts. This is part of a very naive jump into Zettelkastens, Evergreen notes, and a different way of managing my digital life and knowledge management systems.

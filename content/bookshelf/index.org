@@ -1,0 +1,810 @@
+---
+title: Bookshelf
+date: 2021-06-30T04:47:00
+disqus: false
+description: "Running Book, Film, and Poetry Log"
+tags: ["bookshelf"]
+---
+
+* Fiction                                                           :fiction:
+** United States                                              :united_states:
+*** Toni Morrison
+**** /Beloved/
+:PROPERTIES:
+:LASTREAD: [2021-01-24 Sun]
+:END:
+*** James Franco
+**** /Palo Alto Stories/
+Notes: [[file:notes/palo-alto-stories.org][notes/palo-alto-stories]]
+*** Stephen King
+**** /The Stand/
+:PROPERTIES:
+:ISBN:  https://openlibrary.org/books/OL27978058M/The_Stand#edition-details
+:LASTREAD: [2020-07-20 Mon]
+:END:
+**** /It/
+:PROPERTIES:
+:LASTREAD: [2009-07-20 Mon]
+:END:
+**** /Needful Things/
+:PROPERTIES:
+:LASTREAD: [1998-12-18 Fri]
+:END:
+**** /Carrie/
+:PROPERTIES:
+:LASTREAD: [1998-12-18 Fri]
+:END:
+*** Bret Easton Ellis
+**** /Less than Zero/
+:PROPERTIES:
+:ISBN: https://openlibrary.org/books/OL28320653M/Less_Than_Zero
+:LASTREAD: [2020-12-06 Sun]
+:END:
+*** Mark Twain
+**** /The Adventures of Tom Sawyer/
+**** /The Adventures of Huckleberry Finn/
+**** /A Connecticut Yankee in King Arthur's Court/
+*** John Steinbeck
+**** /The Grapes of Wrath/
+:PROPERTIES:
+:LASTREAD: 1997
+:END:
+**** "The Pearl"                                                 :shortstory:
+:PROPERTIES:
+:LASTREAD: 1996
+:END:
+**** /Of Mice and Men/
+:PROPERTIES:
+:LASTREAD: 1996
+:END:
+**** /East of Eden/
+:PROPERTIES:
+:LASTREAD: Jan 2021
+:END:
+*** Sandra Cisneros
+**** /The House on Mango Street/
+:PROPERTIES:
+:LASTREAD: 1995
+:END:
+*** Neil Stephenson
+**** /Cryptonomicon/
+:PROPERTIES:
+:LASTREAD: 2018
+:END:
+**** /Anathem/
+:PROPERTIES:
+:LASTREAD: [2020-07-20 Mon]
+:END:
+**** /Snow Crash/
+:PROPERTIES:
+:LASTREAD: 2018
+:END:
+*** Robin Ha
+**** /Almost American Girl/                                   :graphic_novel:
+:PROPERTIES:
+:LASTREAD: [2020-12-13 Sun]
+:END:
+*** Dashiell Hammett
+**** READ /The Maltese Falcon/                                  :noir:ATTACH:
+:PROPERTIES:
+:LASTREAD: [2021-04-02]
+:ID:       9e37f3ec-4827-4727-a15a-487e1d08b691
+:END:
+- TVTropes: [[attachment:The Maltese Falcon (Literature) - TV Tropes (4_7_2021 11_29_49 AM).html][The Maltese Falcon]]
+** Chile
+*** Roberto Bolanõ
+**** /2066/
+:PROPERTIES:
+:LASTREAD: 2018
+:END:
+** Lebanon
+*** Hanan Al-Shaykh
+**** "The Keeper of the Virgins"                                 :shortstory:
+:PROPERTIES:
+:LASTREAD: [2019-11-10]
+:AUTHOR:   Hanan Al-Shaykh
+:END:
+Notes: [[file:notes/keeper-of-the-virgins.org][The Keeper of the Virgins]]
+** Germany                                                          :germany:
+*** Heinrich Böll                       :böll:nachkriegsliteratur:nobelprize:
+**** /Billiard um Halb Zehn/
+:PROPERTIES:
+:AUTHOR:   Heinrich Böll
+:LASTREAD:    [2019-11-10]
+:END:
+Notes: [[file:notes/20200626142525-billiard_um_half_zehn.org][Billiard Um Halb Zehn]]
+**** /Die Verlorene Ehre der Katharina Blum/
+:PROPERTIES:
+:LASTREAD: 2000
+:END:
+*** Christa Wolf
+**** /Kindheitsmuster/
+:PROPERTIES:
+:LASTREAD: 2003
+:END:
+*** Sigrid Damm
+**** /Cornelia Goethe/
+:PROPERTIES:
+:LASTREAD: 2004
+:END:
+*** Johann Wolfgang Goethe
+:PROPERTIES:
+:LASTREAD: 2004
+:END:
+**** /Die Leiden des Jungen Werther/
+**** /Faust/, Erster Teil
+*** Hans Fallada
+*** Günter Grass
+**** /Die Blechtrommel/
+:PROPERTIES:
+:LASTREAD: 2005
+:END:
+*** Alfred Döblin
+**** /Berlin Alexanderplatz/
+:PROPERTIES:
+:LASTREAD: 2005
+:END:
+*** Martin Walser
+**** /Ein springender Brunnen/
+:PROPERTIES:
+:LASTREAD: 2004
+:END:
+*** Cannetti
+*** Friedrich Dürrenmatt
+**** /Das Versprechen/
+:PROPERTIES:
+:LASTREAD: 2000
+:END:
+*** Thomas Mann
+**** /Tristan/
+**** /Tod in Venedig/
+*** E.T.A. Hoffmann
+**** /Die Elixiere des Teufels/
+:PROPERTIES:
+:LASTREAD: 2001
+:END:
+**** /Der Sandmann/
+:PROPERTIES:
+:LASTREAD: 2002
+:END:
+*** Friedrich Schiller
+**** /Der Geisterseher/                                 :schauerroman:gothic:
+*** Franz Kafka
+**** /The Castle/
+:PROPERTIES:
+:LASTREAD: [2021-01-24 Sun]
+:END:
+**** /Die Verwandlung/
+:PROPERTIES:
+:LASTREAD: 2002
+:END:
+**** /Der Prozess/
+:PROPERTIES:
+:LASTREAD: 2004
+:END:
+*** Ernst Römer
+**** /Stahlgewittern/
+:PROPERTIES:
+:LASTREAD: 2005
+:END:
+** France                                                            :france:
+*** Stendahl
+**** READING The Charterhouse of Parma
+** South Korea                                                        :korea:
+*** Han Kang
+**** /The Vegetarian/
+:PROPERTIES:
+:AUTHOR:   Han Kang, Deborah Smith
+:LASTREAD:    [2017-07-31 Mon]
+:END:
+**** /Human Acts/
+:PROPERTIES:
+:AUTHOR:   Han Kang, Deborah Smith
+:LASTREAD:    [2019-11-10]
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:978-1101906729&jscmd=data&format=json
+:GOODREADS: https://www.goodreads.com/book/show/30091914-human-acts
+:END:
+*** Cho Nam-Joo
+**** /Kimjiyeong, 1982/                           :autobiographical:feminist:
+:PROPERTIES:
+:LASTREAD: [2020-11-02 Mon]
+:END:
+** British                                                          :british:
+*** W. Somerset Maugham
+**** /The Razor's Edge/
+:PROPERTIES:
+:LASTREAD: [2020-05-10 Sun]
+:AUTHOR: William Somerset Maugham
+:ISBN: https://openlibrary.org/books/OL8362784M/The_Razor's_Edge
+:END:
+*** Shakespeare
+**** /Othello/
+:PROPERTIES:
+:LASTREAD: [2020-12-08 Tue]
+:AUTHOR:   Shakesepeare
+:EDITION:  Folger Shakespeare Library
+:ISBN:     https://openlibrary.org/books/OL27079435M/Othello
+:END:
+**** /Macbeth/
+:PROPERTIES:
+:AUTHOR:   William Shakespeare
+:LASTREAD:    [2020-11-18 Wed]
+:EDITION: Folger Shakespeare Library
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9780329706531&jscmd=data&format=json
+:END:
+**** /Romeo and Juliet/
+**** /Much Ado about Nothing/
+**** /Twelfth Night/
+**** /Hamlet/
+**** /Titus Andronicus/
+**** /A Midsummer Night's Dream/
+**** /The Tempest/
+*** Oscar Wilde
+**** /The Picture of Dorian Gray/
+:PROPERTIES:
+:LASTREAD: [2020-02-08]
+:AUTHOR:   Oscar Wilde
+:END:
+**** /The Importance of Being Earnest/                           :play:farce:
+*** Henry James
+**** /The Turn of the Screw/
+:PROPERTIES:
+:LASTREAD: [2020-12-18 Fri]
+:END:
+*** Charles Dickens
+**** /David Copperfield/
+:PROPERTIES:
+:LASTREAD: [1998-12-18 Fri]
+:END:
+**** /A Christmas Carol/
+:PROPERTIES:
+:LASTREAD: 1997
+:END:
+**** /Great Expectations/
+:PROPERTIES:
+:LASTREAD: 1994
+:END:
+*** George Elliot
+**** /Silas Marner/
+:PROPERTIES:
+:LASTREAD: 1997
+:END:
+*** Thomas Hardy
+**** /The Mayor of Casterbridge/
+*** Jane Austen
+**** /Northanger Abbey/
+:PROPERTIES:
+:LASTREAD: 2001
+:END:
+**** /Emma/
+:PROPERTIES:
+:2001:
+:LASTREAD: Unknown
+:END:
+*** Mary Shelley
+**** /Frankenstein/
+*** J.R.R. Tolkien
+**** /The Lord of the Rings/
+:PROPERTIES:
+:LASTREAD: 2007
+:END:
+**** /The Silmarillion/
+:PROPERTIES:
+:LASTREAD: 2014
+:END:
+**** /The Hobbit/
+**** /Unfinished Tales/
+*** Rachel Cusk
+**** /Outline/
+:PROPERTIES:
+:LASTREAD: [2020-07-20 Mon]
+:END:
+*** Lewis Carroll
+**** /Alice's Adventures in Wonderland/
+**** /Through the Looking Glass/
+*** Jeanette Winterson
+**** /Written on the Body/
+** Northern Europe
+*** /Anne Frank: The Diary of a Young Girl/                   :dutch:english:
+:PROPERTIES:
+:AUTHOR:   Anne Frank
+:EDITION: The Definitive Edition
+:LASTREAD:    [2020-12-18 Fri]
+:END:
+*** /Kristin Lavransdatter/                         :norwegian:bildungsroman:
+** Russia & Former Soviet Union
+*** Ivan Turgenev
+**** /Fathers and Sons/
+:PROPERTIES:
+:LASTREAD: [2020-12-18 Fri]
+:ISBN:     nil
+:END:
+*** Leo Tolstoy
+**** /The Death of Ivan Ilych/
+*** Feodor Dostoevsky
+**** /Crime and Punishment/
+:PROPERTIES:
+:LASTREAD: 1998
+:END:
+*** Svetlana Alexievich
+**** /Second-hand Time/
+:PROPERTIES:
+:LASTREAD: 2019
+:END:
+** Ancient Greece
+*** Euripides
+**** /Medea/
+**** /Alcestis/
+**** /Helen/
+**** /The Bachhae/
+**** /Iphigenia in Aulis/
+**** /Iphigenia in Tauris/
+**** /The Oresteia/
+*** Sophocles
+**** /Antigone/
+**** /Oedipus Rex/
+**** /Oedipus at Colonnus/
+*** Aristophanes
+**** /The Frogs/
+**** /The Clouds/
+**** /Lysistrata/
+*** Sappho
+**** Selections from /The Poems of Sappho/
+** Ancient Rome
+** Bronze Age Middle East
+*** /The Epic of Gilgamesh/
+** China
+* Non-Fiction                                                    :nonfiction:
+** Philosophy & Literary Theory
+*** /Confessions of a Philsopher/
+*** Plato
+**** /The Republic/
+**** Dialogues
+***** /Euthyphro/
+:PROPERTIES:
+:LASTREAD: 1998
+:END:
+*** Literary Theory
+**** LONGTERM /Sexual Personae/
+:PROPERTIES:
+:AUTHOR:   Camille Paglia
+:END:
+**** /Einführung in die Erzähltheorie/
+**** /The Dialogic Imagination/
+**** /The Western Canon/
+**** /Shakespeare: The Invention of the Human/
+*** /I Am Not a Gadget/
+:PROPERTIES:
+:AUTHOR:   Jaron Lanier
+:LASTREAD: 2013
+:END:
+** Outdoors
+*** /Into Thin Air/
+:PROPERTIES:
+:AUTHOR:   John Krakauer
+:END:
+*** /Into the Wild/
+:PROPERTIES:
+:AUTHOR:   John Krakauer
+:END:
+*** /The Thousand-Mile Summer/
+:PROPERTIES:
+:LASTREAD: 2017
+:AUTHOR:   Colin Fletcher
+:END:
+** History & Autobiography
+*** /Life on the Mississippi/
+:PROPERTIES:
+:AUTHOR:   Mark Twain
+:END:
+*** /Coleridge: Darker Reflections/
+:PROPERTIES:
+:AUTHOR:   Richard Holmes
+:END:
+** Biology
+*** READ /The Machinery of Life/            :cells:molecular_biology:jsomers:
+:PROPERTIES:
+:AUTHOR:   David S. Goodsell
+:ISBN:     https://openlibrary.org/books/OL1701472M/The_machinery_of_life
+:END:
+** Physics
+*** /A Brief History of Time/
+:PROPERTIES:
+:AUTHOR:   Stephen Hawking
+:LASTREAD: 2014
+:END:
+*** /The Dancing Wu Li Masters/
+:PROPERTIES:
+:AUTHOR:   Gary Zukav
+:LASTREAD: [2020-07-20 Mon]
+:END:
+*** /The Character of Physical Law/
+:PROPERTIES:
+:AUTHOR:   Richard Feynmann
+:LASTREAD: 2002
+:END:
+** Geology
+*** /Basin and Range/
+:PROPERTIES:
+:AUTHOR:   John McPhee
+:LASTREAD: [2020-07-20 Mon]
+:END:
+** Modern Culture
+*** /The Second Mountain/
+:PROPERTIES:
+:AUTHOR:   David Brooks
+:ADDED:    [2019-11-10]
+:LASTREAD: Jan 2020
+:ISBN:     https://openlibrary.org/api/books?bibkeys=ISBN:9781984840769&jscmd=data&format=json
+:END:
+*** /Curious: The Desire to Know and Why Your Future Depends on It/ :curiosity:epistemology:empathy:culture_wars:
+:PROPERTIES:
+:ADDED: [2019-07-08 Mon]
+:AUTHOR:   Ian Leslie
+:ISBN:     9780465097623
+:END:
+** Anthropology
+*** READING /Mythos: The Greek Myths Retold/
+:PROPERTIES:
+:ADDED: [2020-02-08]
+:AUTHOR:   Stephen Fry
+:ISBN:     9781405934138
+:END:
+** Essays and Essay Collections                                       :essay:
+*** READING Seasons: Desert Sketches :united_states:utah:desert:nature:politics:
+:PROPERTIES:
+:ADDED: [2020-02-08]
+:AUTHOR:   Ellen Meloy
+:AUTHOR_PREFACE: Annie Proulx
+:END:
+*** READING Feel Free                        :british:politics:memoir:london:
+:PROPERTIES:
+:ADDED: [2020-02-08]
+:AUTHOR:   Zadie Smiith
+:ISBN:     9780143110255
+:END:
+*** "The Awful German Language"
+:PROPERTIES:
+:AUTHOR:   Mark Twain
+:LASTREAD: 2003
+:END:
+* Bible                                                               :bible:
+** Apocryphal
+*** Susanna
+:PROPERTIES:
+:LASTREAD: 2003
+:END:
+Notes: [[file:roam/20210115124134-book_of_susanna_is_first_detective_story.org][Book of Susanna is first detective story]]
+* Film & Television                                         :film:television:
+** South Korea                                                       :korean:
+*** /Parasite/
+:PROPERTIES:
+:DIRECTOR: Bong Joon-ho
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/F6B0-A190-C39F-74A7-A0ED-9
+:LANG:     KO
+:ALT_TITLE: Gisaengchung
+:ADDED:    [2019-11-02 Sat]
+:END:
+*** /The Wailing/
+:PROPERTIES:
+:DIRECTOR: Hong-jin Na
+:EIDR: https://ui.eidr.org/view/content?id=10.5240/72B0-2FA2-9082-7DCF-4F32-9
+:LANG: KO
+:ALT_TITLE: Goksung
+:ADDED: [2020-11-07 Sat]
+:END:
+*** /Misaeng/                                           :series:office:drama:
+*** WATCHING /Let's Eat/                                :food:series:dramedy:
+**** Season 1
+:PROPERTIES:
+:WATCHED:  [2020-12-26 Sat 00:35]
+:END:
+**** Season 2
+** German Expressionism                                       :expressionism:
+*** /Varieté/
+:PROPERTIES:
+:DIRECTOR:   Dupont, E.A.
+:ADDED:    [2019-11-10]
+:EIDR: https://ui.eidr.org/view/content?id=10.5240/91EB-4581-44D1-A985-8E36-Z
+:END:
+** Germany                                                          :germany:
+*** WATCHING /Dark/                                      :time_travel:series:
+:PROPERTIES:
+:ADDED:    [2019-12-15 Sun]
+:EIDR:     10.5240/B7DE-51CB-EA3B-905A-641F-8
+:END:
+*** /Babylon Berlin/                                     :series:weimar:noir:
+:PROPERTIES:
+:EIDR: https://ui.eidr.org/view/content?id=10.5240/F207-91EF-CD65-2267-8AD7-V
+:WATCHED: [2020-07-31 Fri]
+:END:
+*** WATCHING /Parfüm/                                                :series:
+** Australia
+*** /Berlin Syndrome/
+:PROPERTIES:
+:WATCHED: [2021-02-28]
+:DIRECTOR: Cate Shortland
+:EIDR: https://ui.eidr.org/view/content?id=10.5240/EE41-4651-C48B-EC0F-4961-O
+:END:
+*** Mad Max: Fury Road
+:PROPERTIES:
+:DIRECTOR: George Miller
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/6781-B329-A035-E4E3-7535-M
+:WATCHED: 2015
+:END:
+** Modern United States
+*** /Carol/
+:PROPERTIES:
+:WATCHED: [2015-12-15 Tue]
+:DIRECTOR: Todd Haynes
+:EIDR: https://ui.eidr.org/view/content?id=10.5240/0A1D-0301-6DEF-1960-E490-S
+:CUSTOM_ID: 5b6580c1-10e6-4824-8496-b1332a37076b
+:END:
+*** /The Girl on the Train/
+:PROPERTIES:
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/6EF8-5198-2444-05A8-5309-Q
+:WATCHED:    [2016-10-16 Sun]
+:DIRECTOR: Tate Taylor
+:END:
+*** /Minari/                                                :korean:arkansas:
+:PROPERTIES:
+:WATCHED: [2020-01-31 Fri]
+:DIRECTOR: Lee Isaac Chung
+:EIDR: [[https://ui.eidr.org/view/content?id=10.5240/BBB2-5EB4-BA5F-8300-503E-N][https://ui.eidr.org/view/content?id=10.5240/BBB2-5EB4-BA5F-8300-503E-N]]
+:END:
+- [[https://www.nytimes.com/2021/02/11/movies/minari-review.html][New York Times Review, 2020 Feb 11]]
+*** /It Comes at Night/   :horror:dystopia:interracial:plague:covid:pandemic:
+:PROPERTIES:
+:WATCHED:    [2020-04-12 Sun]
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/A2DC-3816-4D5A-9A98-F4F0-0
+:DIRECTOR: Trey Edward Shults
+:END:
+*** /The Witch/                                          :horror:atomspheric:
+:PROPERTIES:
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/0E6C-7B1E-871C-1BFA-0618-X
+:DIRECTOR: Robert Eggers
+:WATCHED: [2020-12-03 Thu]
+:END:
+*** /Midsommar/                                                      :horror:
+:PROPERTIES:
+:DIRECTOR: Ari Aster
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/A442-C5B1-D358-0037-E40E-9
+:WATCHED: <2019-07-10 Wed>
+:END:
+*** /Hereditary/                                                     :horror:
+:PROPERTIES:
+:DIRECTOR: Ari Aster
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/D980-255E-96C7-9F53-CBF8-4
+:WATCHED:  [2020-10-01 Thu]
+:END:
+*** /The Lighthouse/                                                 :horror:
+:PROPERTIES:
+:WATCHED:  nil
+:DIRECTOR: Robert Eggers
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/008A-EB43-3842-5440-07D0-5
+:END:
+*** /The Queen's Gambit/                           :series:1950s:1960s:chess:
+    :PROPERTIES:
+:WATCHED:  [2020-10-01 Thu]
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/B652-8E82-19C5-3D08-5C33-9
+:END:
+*** /The Sinner/                                               :series:crime:
+:PROPERTIES:
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/442B-20C8-DF35-2905-87DB-H
+:MAINACTOR: Bill Pullman
+:END:
+**** Season 1
+:PROPERTIES:
+:WATCHED:  2018
+:END:
+**** Season 2
+:PROPERTIES:
+:WATCHED:  2021
+:END:
+*** /Hanna/
+:PROPERTIES:
+:MAINACTOR: Esme Creed-Miles
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/52A1-F4AB-F330-50F4-BB56-V
+:WATCHED:  2019--2020
+:END:
+*** /It/                                                             :horror:
+:PROPERTIES:
+:WATCHED:  2019--2020
+:EIDR:     nil
+:END:
+*** /True Grit/                                       :western:remake:portis:
+:PROPERTIES:
+:WATCHED:  2019--2020
+:EIDR:     nil
+:END:
+*** /Open Range/                                                    :western:
+*** /Westworld/                                :western:series:ai:postmodern:
+*** /All the Pretty Horses/                                         :western:
+*** /Unforgiven/                                                    :western:
+:PROPERTIES:
+:WATCHED:  2000
+:END:
+*** /The Hateful Eight/                                             :western:
+*** /Pulp Fiction/
+*** /Deadwood/                                               :series:western:
+*** /Six Feet Under/                                                 :series:
+*** /Once Upon a Time in Mexico/                              :western:humor:
+:PROPERTIES:
+:WATCHED:  2003
+:END:
+*** /3:10 to Yuma/                                                  :western:
+:PROPERTIES:
+:WATCHED:  2007
+:END:
+*** /No Country for Old Men/                                  :western:yeats:
+:PROPERTIES:
+:WATCHED:  2007
+:END:
+*** /Appaloosa/                                                     :western:
+:PROPERTIES:
+:WATCHED:  2007
+:END:
+***
+*** /The Mask of Zorro/
+:PROPERTIES:
+:EIDR: nil
+:WATCHED:  1998
+:END:
+*** /Little Women/
+*** WATCHING /Alone/                                :series:survival:reality:
+**** /Season 1/
+:PROPERTIES:
+:WATCHED:  [2020-12-26 Sat 00:35]
+:END:
+**** /Season 6/
+:PROPERTIES:
+:WATCHED:  2021
+:END:
+**** /Season 2/
+:PROPERTIES:
+:WATCHED:  2021
+:END:
+*** /Rainbow War/
+:PROPERTIES:
+:LASTWATCHED: 1986
+
+:END:
+Watched with aunt and sister way back in 1986 at the Reuben H. Fleet IMAX theatre.
+https://en.wikipedia.org/wiki/Rainbow_War?wprov=
+** Great Britain
+*** /The Ritual/                                                     :horror:
+:PROPERTIES:
+:ADDED: [2020-02-08]
+:DIRECTOR: David Bruckner
+:EIDR::    https://ui.eidr.org/view/content?id=10.5240/F582-217B-F0A0-16B6-8EC7-2
+:END:
+*** /The Return of the Native/
+:PROPERTIES:
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/24B7-6D04-0EB4-F007-4E5B-3
+:DIRECTOR: Jack Gold
+:WATCHED:  1994
+:END:
+*** /Emma/
+*** /Much Ado about Nothing/
+*** /Pride and Prejudice/
+*** /Locke/
+:PROPERTIES:
+:WATCHED:  2014
+:MAINACTOR: Tom Hardy
+:DIRECTOR: Stephen Knight
+:EIDR:     https://ui.eidr.org/view/content?id=10.5240/B601-832E-D2E1-EAB5-5C75-M
+:END:
+** Iceland
+*** /Arctic/                                        :mads_mikkelsen:survival:
+:PROPERTIES:
+:WATCHED: [2020-12-26 Sat 00:35]
+:DIRECTOR: Joe Penna
+:EIDR:
+:WIKIPEDIA: https://en.wikipedia.org/wiki/Arctic_(film)?wprov=sfti1
+:END:
+* Poetry                                                             :poetry:
+** Britain
+*** Wordsworth
+**** "Lines Written in Early Spring"                                 :ATTACH:
+:PROPERTIES:
+:ID:       5133ce4d-a8e5-4217-9db9-b9e8d1d8d78e
+:END:
+**** "I Wandered Lonely as a Cloud"                                  :ATTACH:
+:PROPERTIES:
+:ID:       1fee31a0-fa95-430c-a27e-0ae489f8cdb4
+:END:
+**** "Loadamia"
+*** Coleridge
+**** "The Rime of the Ancient Mariner"                         :ATTACH:meter:
+:PROPERTIES:
+:ID:       ecbd2009-4bd1-4459-ad50-670ff54aa224
+:END:
+**** "Frost at Midnight"                                             :ATTACH:
+:PROPERTIES:
+:ID:       1112aedc-035b-44d4-8a7e-bed189448032
+:END:
+**** "Kubla Khan"                                              :ATTACH:opium:
+:PROPERTIES:
+:ID:       e3c1df08-5f4f-4eeb-aaeb-1816d9cae4ab
+:END:
+*** Robert Browning
+**** "My Last Duchess"           :ATTACH:mimesis:duality:malegaze:femalegaze:
+:PROPERTIES:
+:ID:       f05d6edf-a65a-40f3-8e5c-af5daec5e6ae
+:END:
+*** Matthew Arnold
+**** "Palladium"
+**** "Philomela"
+**** "Dejaneira"
+**** "Urania"
+**** "Euphrosyne"
+*** Robert Bridges
+**** "Eros and Psyche"
+**** "Prometheus the Firegiver"
+**** "Achilles in Sycros"
+**** "Demeter"
+**** "Isle of Achilles"
+**** "Return of Ulysses"
+**** "Feast of Bacchus"
+*** Chaucer
+**** "The Legend of Good Women"
+**** /Troilus and Criseyde/
+**** /The House of Fame/
+**** /The Parlement of Fowls/
+*** John Keats
+**** "Ode on a Grecian Urn"
+**** "Ode to Autumn"
+**** "Hymn to Apollo"
+**** "Endymion"
+**** "Hyperion"
+**** "Ode to Maia"
+**** "Ode to Psyche"
+*** W. S. Landor
+**** "Dirce"
+**** "Dryope"
+**** "Europa"
+**** "Iphigenia and Agamemnon"
+**** "Niobe"
+**** "Hippomenes and Atalanta"
+**** "Orpheus and Eurydice"
+**** "Hercules"
+**** "Pluto"
+**** "Alcestis"
+**** "Penelope"
+*** Christopher Marlowe
+**** /Tragedy of Dido, Queen of Carthage/
+*** John Milton
+**** "Comus"
+**** "Lycidas"
+**** /Paradise Lost/
+*** William Morris
+**** "The Life and Death of Jason"
+**** /The Earthly Paradise/
+*** Percy Bysshe Shelley
+**** "Arethusa"
+**** "Hymn to Apollo"
+**** "Hymn to Mercury"
+**** /Prometheus Unbound/
+**** /Oedipus Tyrannus/
+*** Alfred, Lord Tennyson
+**** "Amphion"
+**** "The Death of Oenone"
+**** "Demeter and Persephone"
+**** "Hero to Leander"
+**** "Tiresias"
+**** "Ulysses"
+**** "Oenone"
+**** "The Lotos Eaters"
+**** "The Hesperides"
+**** "To Vergil"
+** United States
+*** Dickinson
+**** "There is no frigate like a book"                      :ATTACH:metaphor:
+:PROPERTIES:
+:ID:       fc9aed76-61cd-44f8-adb9-f7c7bae1dfa9
+:END:
+*** Emerson
+**** "The Snow Storm"                                 :ATTACH:snow:childhood:
+:PROPERTIES:
+:ID:       fcf6f6ef-71d6-4179-b8bc-7bb4fafd8ad3
+:END:

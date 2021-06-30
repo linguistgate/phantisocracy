@@ -1,0 +1,9 @@
+---
+title: Hiatus
+date: 2021-06-30T04:47:00
+disqus: false
+description: "On Hiatus"
+tags: ["hiatus"]
+---
+
+This website is on hiatus for the time being.

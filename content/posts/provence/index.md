@@ -5,6 +5,7 @@ description: "Description of the area east of Aix-en-Provence with some personal
 tags: [france, hiking]
 disqus: false
 images: [ "/posts/provence/mt-st-victoire-from-bibemus.jpg" ] 
+draft: true
 ---
 
 The path that leads to the Carrières de Bibémus starts just past the Lycée Paul Cézanne. It's a multi-use road all the way to the plateau, so _pietons_ have to be wary of Citroëns careering around corners and braking at the worst moments --- if indeed the goal is to keep the vehicles fastened to the earth.

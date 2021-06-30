@@ -5,6 +5,7 @@ draft: false
 tags: [travel, trees, desert, jeeping, sandiego]
 disqus: false
 images: [ "/posts/pinyons/pinyon-tree.jpg"]
+draft: true
 ---
 
 Piñon trees are an ancient food source in the American Southwest, a smaller, shrubbier tree than other pines. I have never paid them much attention, but on a recent Jeep expedition past Pinyon Mountain toward Split Rock in Anza-Borrego, I had an opportunity to see them as characteristic standard-bearers of that beautiful ecotone shift from chapparal to the ridges of the Colorado Desert and the desolation of the Carrizo Badlands.
